@@ -3,15 +3,15 @@ import React from 'react';
 import Section from '../section';
 import SummaryItem from '../summary-item';
 
-const SectionExperience = ({ experience }) => {
-  if (!experience.length) return null;
+const SectionAccolades = ({ accolades }) => {
+  if (!accolades.length) return null;
+
   return (
-    <Section title="Experience">
-      {experience.map((item) => (
+    <Section title="Accolades">
+      {accolades.map((item) => (
         <SummaryItem
           key={item.name}
           name={item.name}
-          role={item.role}
           description={item.description}
           link={item.link}
         />
@@ -20,4 +20,4 @@ const SectionExperience = ({ experience }) => {
   );
 };
 
-export default SectionExperience;
+export default SectionAccolades;

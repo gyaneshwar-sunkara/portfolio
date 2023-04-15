@@ -17,7 +17,7 @@ const classes = {
     'inline-block py-2 font-semibold text-xs text-gray-600 hover:text-black',
 };
 
-const Header = ({ metadata = {}, noBlog = true }) => {
+const Header = ({ metadata = {} }) => {
   const twitter = get(metadata, 'author', false);
   const github = get(metadata, 'github', false);
   const linkedin = get(metadata, 'linkedin', false);
@@ -38,7 +38,7 @@ const Header = ({ metadata = {}, noBlog = true }) => {
         <ul className={classes.list}>
         {linkedin && (
             <li className={classes.item}>
-              <a className={classes.link} href={linkedin}>
+              <a className={classes.link} href={linkedin} target="_blank" rel="noreferrer">
                 LinkedIn
               </a>
             </li>
@@ -48,6 +48,8 @@ const Header = ({ metadata = {}, noBlog = true }) => {
               <a
                 className={classes.link}
                 href={`https://twitter.com/${twitter}`}
+                target="_blank"
+                rel="noreferrer"
               >
                 Twitter
               </a>
@@ -55,14 +57,14 @@ const Header = ({ metadata = {}, noBlog = true }) => {
           )}
           {github && (
             <li className={classes.item}>
-              <a className={classes.link} href={github}>
+              <a className={classes.link} href={github} target="_blank" rel="noreferrer">
                 GitHub
               </a>
             </li>
           )}
           {resume && (
             <li className={classes.item}>
-              <a className={classes.link} href={resume}>
+              <a className={classes.link} href={resume} target="_blank" rel="noreferrer">
                 Resume
               </a>
             </li>
@@ -72,16 +74,11 @@ const Header = ({ metadata = {}, noBlog = true }) => {
               <a
                 className={classes.link}
                 href={`https://twitter.com/${twitter}`}
+                target="_blank"
+                rel="noreferrer"
               >
                 Twitter
               </a>
-            </li>
-          )}
-          {!noBlog && (
-            <li className={classes.item}>
-              <Link className={classes.link} to="/blog">
-                Blog
-              </Link>
             </li>
           )}
         </ul>
