@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Gyaneshwar Sunkara',
     // Main Site Title
-    title: `Gyaneshwar Sunkara | Software Developer`,
+    title: `Gyaneshwar Sunkara`,
     // Description that goes under your name in main bio
-    description: `Experienced software engineer pioneering in multiple domains.`,
+    description: `Software Engineer with experience in building Web, Mobile and Intelligent (A.I) Applications`,
     // Optional: Twitter account handle
     // author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,9 +15,9 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/gyani-sunkara`,
     // Optional: Resume URL
-    resume: `https://www.google.drive.com/`,
+    resume: `https://drive.google.com/file/d/1iyUAOBOR6r5akA6TprH5T32Eun_BDMFF/view?usp=sharing`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `As a senior software engineer with experience in mobile application development, machine learning pipelines, and competitive programming, I possess expertise in JavaScript, Python, and Java. Currently working at NPCI through Winjit Technologies, I am passionate about solving complex problems, staying up-to-date with the latest technologies, and driving meaningful change through innovation.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -46,38 +46,46 @@ module.exports = {
       {
         name: 'Winjit Technologies',
         role: 'Senior Software Engineer, July 2022 - Present',
-        description: 'sfasdfa',
+        description: 'During my tenure at Winjit Technologies, I worked on the BHIM application for NPCI. As a senior software engineer, I played a key role in optimizing the application\'s performance, successfully making it up to 50% faster. Additionally, I was responsible for updating the software to the latest versions, ensuring that the application was always up-to-date with the latest industry standards. Throughout my time at Winjit, I also tackled some of the most critical problems faced by the team, utilizing my strong analytical skills to conduct deep root cause analysis and provide effective solutions.',
         link: 'https://drive.google.com/file/d/1FdQsG6SkqpKZWh9RwQ-s6OlCUY6LEab7/view?usp=sharing',
       },
       {
         name: 'Cube Highways',
         role: 'Software Developer, January 2021 - July 2022',
-        description: 'hhhhhhhhhh nnnnnnnnnnnn uuuuuuuuu',
+        description: 'At Cube Highways, I created the Highway Asset Tracker project, an innovative solution for monitoring and managing highway assets, which involved collaborating with cross-functional teams to ensure its successful implementation.',
         link: 'https://drive.google.com/file/d/1xI1XNk3e8d7LcPRPYtRcP2wG_XZyDCTc/view?usp=sharing',
       },
       {
         name: 'Inroads Software',
         role: 'Software Developer Intern, July 2019 - January 2021',
-        description: 'iiiiiiiiiii hhhhhhhhhhhhhh pppppppppoooooooooo  ',
+        description: 'During my time at Inroads Software, I was involved in the development of several cutting-edge projects, including the Pavement Distress Detector and RoadAid, an enterprise application designed specifically for roads. Leveraging my skills in mobile application development and machine learning, I played a key role in developing these projects, working collaboratively with cross-functional teams to ensure their successful implementation. Through these experiences, I gained valuable insights into the intersection of technology and transportation, which I am excited to continue exploring in my career.',
         link: 'https://drive.google.com/file/d/1FlMyz8u1evJZYikD9L6erPBjbejhGCuN/view?usp=sharing',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Languages',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Application Programming: JavaScript, Python, Java; Competitive Programming & DSA: Java',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Frameworks',
+        description: 'Node.js, React, React Native, Pytorch, TensorFlow',
       },
       {
-        name: 'Other',
+        name: 'Other Technologies',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Amazon Web Services (AWS), MongoDB',
       },
+      {
+        name: 'Soft Skills',
+        description: 'Problem Solving, Root Cause Analysis',
+      },
+      {
+        name: 'Languages',
+        description: 'English(Professional), Hindi(Native), Telugu(Native), Japanese(Elementary)'
+      }
     ],
     // Optional: List your tests, they must have `name`, `score` and `link`.
     tests: [
@@ -96,12 +104,12 @@ module.exports = {
     certifications: [
       {
         name: 'Machine Learning',
-        description: '8.0',
+        description: 'Gained practical knowledge of machine learning algorithms, deep learning methodologies through Andrew Ng\'s Machine Learning course which I applied extensively during my time as an intern at Inroads Software.',
         link: 'https://www.coursera.org/account/accomplishments/verify/WY6A79WYKC84',
       },
       {
         name: 'Deep Learning',
-        description: '311',
+        description: 'Deep Learning Specialization offered by DeepLearning.AI covered advanced topics in deep learning, such as convolutional neural networks, recurrent neural networks expanding my expertise in the field. I used these techniques in Highway Asset Tracker project while working for Cube Highways.',
         link: 'https://www.coursera.org/account/accomplishments/specialization/HLVKU38SP4DP',
       },
     ],
@@ -109,7 +117,7 @@ module.exports = {
     accolades: [
       {
         name: 'Department Topper',
-        description: 'Awarded academic excellence for securing First Rank(Computer Science and Engineering Department) in the Sophomore year of my Bachelor’s Degree',
+        description: 'Awarded academic excellence for securing First Rank(Computer Science and Engineering Department) in the Sophomore year of my Bachelor’s Degree.',
         link: 'https://drive.google.com/file/d/1o1WfjyAnEzKitujql4pSa14bQxDH63um/view?usp=sharing',
       },
     ],
