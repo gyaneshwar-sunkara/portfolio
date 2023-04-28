@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://gyaneshwar-sunkara.web.app/`,
     // Your Name
     name: 'Gyaneshwar Sunkara',
     // Main Site Title
     title: `Gyaneshwar Sunkara`,
     // Description that goes under your name in main bio
-    description: `Software Engineer with experience in building Web, Mobile and Intelligent (A.I) Applications`,
+    description: `Software Engineer experienced in building Web, Mobile and Intelligent (A.I) Applications`,
     // Optional: Twitter account handle
     // author: `@rfitzio`,
     // Optional: Github account URL
@@ -17,7 +17,7 @@ module.exports = {
     // Optional: Resume URL
     resume: `https://drive.google.com/file/d/1iyUAOBOR6r5akA6TprH5T32Eun_BDMFF/view?usp=sharing`,
     // Content of the About Me section
-    about: `As a senior software engineer with experience in mobile application development, machine learning pipelines, and competitive programming, I possess expertise in JavaScript, Python, and Java. Currently working at NPCI through Winjit Technologies, I am passionate about solving complex problems, staying up-to-date with the latest technologies, and driving meaningful change through innovation.`,
+    about: `I am well versed in multiple computer languages with expertise in JavaScript, Python, and Java. Though cliche have to say, I am passionate about solving complex problems, staying up-to-date with the latest technologies, and driving meaningful change through innovation.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -44,21 +44,27 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'National Payments Corporation of India (NPCI)',
+        role: 'Onsite Critical Resource, July 2022 - Present',
+        description: 'I worked on the BHIM application for NPCI. As a senior software engineer, I played a key role in optimizing the application\'s performance, successfully making it up to 50% faster. Additionally, I was responsible for updating the software to the latest versions, ensuring that the application was always up-to-date with the latest industry standards. Throughout my time at NPCI, I tackled some of the most critical problems faced by the team, utilizing my strong analytical skills to conduct root cause analysis and provide effective solutions.',
+        link: 'https://drive.google.com/file/d/1FdQsG6SkqpKZWh9RwQ-s6OlCUY6LEab7/view?usp=sharing',
+      },
+      {
         name: 'Winjit Technologies',
         role: 'Senior Software Engineer, July 2022 - Present',
-        description: 'During my tenure at Winjit Technologies, I worked on the BHIM application for NPCI. As a senior software engineer, I played a key role in optimizing the application\'s performance, successfully making it up to 50% faster. Additionally, I was responsible for updating the software to the latest versions, ensuring that the application was always up-to-date with the latest industry standards. Throughout my time at Winjit, I also tackled some of the most critical problems faced by the team, utilizing my strong analytical skills to conduct deep root cause analysis and provide effective solutions.',
+        description: 'I worked as an onsite critical resource for NPCI during my time with Winjit Technologies while handling some of the internal Winjit tasks.',
         link: 'https://drive.google.com/file/d/1FdQsG6SkqpKZWh9RwQ-s6OlCUY6LEab7/view?usp=sharing',
       },
       {
         name: 'Cube Highways',
         role: 'Software Developer, January 2021 - July 2022',
-        description: 'At Cube Highways, I created the Highway Asset Tracker project, an innovative solution for monitoring and managing highway assets, which involved collaborating with cross-functional teams to ensure its successful implementation.',
+        description: 'At Cube Highways, I created the Highway Asset Tracker, an innovative solution for monitoring and managing highway assets, which involved collaborating with cross-functional teams to ensure its successful implementation.',
         link: 'https://drive.google.com/file/d/1xI1XNk3e8d7LcPRPYtRcP2wG_XZyDCTc/view?usp=sharing',
       },
       {
         name: 'Inroads Software',
         role: 'Software Developer Intern, July 2019 - January 2021',
-        description: 'During my time at Inroads Software, I was involved in the development of several cutting-edge projects, including the Pavement Distress Detector and RoadAid, an enterprise application designed specifically for roads. Leveraging my skills in mobile application development and machine learning, I played a key role in developing these projects, working collaboratively with cross-functional teams to ensure their successful implementation. Through these experiences, I gained valuable insights into the intersection of technology and transportation, which I am excited to continue exploring in my career.',
+        description: 'During my time at Inroads Software, I was involved in the development of several cutting-edge projects, including the Pavement Distress Detector and RoadAid, an enterprise application designed specifically for roads. Leveraging my skills in mobile application development and machine learning, I played a key role in developing these projects, working collaboratively with cross-functional teams to ensure their successful implementation. Through these experiences, I gained valuable insights into the intersection of multiple technologies, which I am excited to continue exploring in my career.',
         link: 'https://drive.google.com/file/d/1FlMyz8u1evJZYikD9L6erPBjbejhGCuN/view?usp=sharing',
       },
     ],
