@@ -11,7 +11,7 @@ module.exports = {
     // Optional: Twitter account handle
     // author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/gyani-sunkara`,
+    github: `https://github.com/gyaneshwar-sunkara`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/gyaneshwar-sunkara`,
     // Optional: Resume URL
