@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/gyani-sunkara`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/gyani-sunkara`,
+    linkedin: `https://www.linkedin.com/in/gyaneshwar-sunkara`,
     // Optional: Resume URL
     resume: `https://drive.google.com/file/d/1iyUAOBOR6r5akA6TprH5T32Eun_BDMFF/view?usp=sharing`,
     // Content of the About Me section
@@ -47,25 +47,29 @@ module.exports = {
         name: 'National Payments Corporation of India (NPCI)',
         role: 'Onsite Critical Resource, July 2022 - Present',
         description: 'I worked on the BHIM application for NPCI. As a senior software engineer, I played a key role in optimizing the application\'s performance, successfully making it up to 50% faster. Additionally, I was responsible for updating the software to the latest versions, ensuring that the application was always up-to-date with the latest industry standards. Throughout my time at NPCI, I tackled some of the most critical problems faced by the team, utilizing my strong analytical skills to conduct root cause analysis and provide effective solutions.',
-        link: 'https://drive.google.com/file/d/1FdQsG6SkqpKZWh9RwQ-s6OlCUY6LEab7/view?usp=sharing',
       },
       {
         name: 'Winjit Technologies',
         role: 'Senior Software Engineer, July 2022 - Present',
         description: 'I worked as an onsite critical resource for NPCI during my time with Winjit Technologies while handling some of the internal Winjit tasks.',
-        link: 'https://drive.google.com/file/d/1FdQsG6SkqpKZWh9RwQ-s6OlCUY6LEab7/view?usp=sharing',
       },
       {
         name: 'Cube Highways',
         role: 'Software Developer, January 2021 - July 2022',
         description: 'At Cube Highways, I created the Highway Asset Tracker, an innovative solution for monitoring and managing highway assets, which involved collaborating with cross-functional teams to ensure its successful implementation.',
-        link: 'https://drive.google.com/file/d/1xI1XNk3e8d7LcPRPYtRcP2wG_XZyDCTc/view?usp=sharing',
       },
       {
         name: 'Inroads Software',
         role: 'Software Developer Intern, July 2019 - January 2021',
         description: 'During my time at Inroads Software, I was involved in the development of several cutting-edge projects, including the Pavement Distress Detector and RoadAid, an enterprise application designed specifically for roads. Leveraging my skills in mobile application development and machine learning, I played a key role in developing these projects, working collaboratively with cross-functional teams to ensure their successful implementation. Through these experiences, I gained valuable insights into the intersection of multiple technologies, which I am excited to continue exploring in my career.',
-        link: 'https://drive.google.com/file/d/1FlMyz8u1evJZYikD9L6erPBjbejhGCuN/view?usp=sharing',
+      },
+    ],
+    // Optional: List your skills, they must have `name` and `description`.
+    education: [
+      {
+        name: 'Jawaharlal Nehru Technological University',
+        role: 'Bachelor\'s degree, Computer Science, 2016 - 2020',
+        description: 'GPA: 7.45, College: NREC',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -98,12 +102,10 @@ module.exports = {
       {
         name: 'IELTS',
         description: 'Overall : 8.0, Listening: 8.5, Reading: 8.5, Writing: 7.0, Speaking: 7.0',
-        link: 'https://drive.google.com/file/d/13fJjjAiqBPyYP-Jle0QMpOFwjOKwzz9L/view?usp=sharing',
       },
       {
         name: 'GRE',
         description: 'Total: 311, Verbal: 152, Quantitative: 159',
-        link: 'https://drive.google.com/file/d/10XPs52jqN_dtluFUhoqRl4RkZoBrB0zJ/view?usp=sharing',
       },
     ],
     // Optional: List your certifications, they must have `name`,  `description` and `link`.
@@ -124,7 +126,21 @@ module.exports = {
       {
         name: 'Department Topper',
         description: 'Awarded academic excellence for securing First Rank(Computer Science and Engineering Department) in the Sophomore year of my Bachelor’s Degree.',
-        link: 'https://drive.google.com/file/d/1o1WfjyAnEzKitujql4pSa14bQxDH63um/view?usp=sharing',
+      },
+    ],
+    // Optional: List your social media accounts, they must have `name` and `link`.
+    socials: [
+      {
+        name: 'Twitter',
+        link: 'https://twitter.com/gyani__s'
+      },
+      {
+        name: 'Linkedin',
+        link: 'https://www.linkedin.com/in/gyaneshwar-sunkara'
+      },
+      {
+        name: 'Instagram',
+        link: 'https://www.instagram.com/gyani__s'
       },
     ],
   },
