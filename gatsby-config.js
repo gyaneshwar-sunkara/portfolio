@@ -46,29 +46,33 @@ module.exports = {
       {
         name: 'National Payments Corporation of India (NPCI)',
         role: 'Onsite Critical Resource, July 2022 - Present',
-        description: 'I worked on the BHIM application for NPCI. As a senior software engineer, I played a key role in optimizing the application\'s performance, successfully making it up to 50% faster. Additionally, I was responsible for updating the software to the latest versions, ensuring that the application was always up-to-date with the latest industry standards. Throughout my time at NPCI, I tackled some of the most critical problems faced by the team, utilizing my strong analytical skills to conduct root cause analysis and provide effective solutions.',
+        description:
+          "I worked on the BHIM application for NPCI. As a senior software engineer, I played a key role in optimizing the application's performance, successfully making it up to 50% faster. Additionally, I was responsible for updating the software to the latest versions, ensuring that the application was always up-to-date with the latest industry standards. Throughout my time at NPCI, I tackled some of the most critical problems faced by the team, utilizing my strong analytical skills to conduct root cause analysis and provide effective solutions.",
       },
       {
         name: 'Winjit Technologies',
         role: 'Senior Software Engineer, July 2022 - Present',
-        description: 'I worked as an onsite critical resource for NPCI during my time with Winjit Technologies while handling some of the internal Winjit tasks.',
+        description:
+          'I worked as an onsite critical resource for NPCI during my time with Winjit Technologies while handling some of the internal Winjit tasks.',
       },
       {
         name: 'Cube Highways',
         role: 'Software Developer, January 2021 - July 2022',
-        description: 'At Cube Highways, I created the Highway Asset Tracker, an innovative solution for monitoring and managing highway assets, which involved collaborating with cross-functional teams to ensure its successful implementation.',
+        description:
+          'At Cube Highways, I created the Highway Asset Tracker, an innovative solution for monitoring and managing highway assets, which involved collaborating with cross-functional teams to ensure its successful implementation.',
       },
       {
         name: 'Inroads Software',
         role: 'Software Developer Intern, July 2019 - January 2021',
-        description: 'During my time at Inroads Software, I was involved in the development of several cutting-edge projects, including the Pavement Distress Detector and RoadAid, an enterprise application designed specifically for roads. Leveraging my skills in mobile application development and machine learning, I played a key role in developing these projects, working collaboratively with cross-functional teams to ensure their successful implementation. Through these experiences, I gained valuable insights into the intersection of multiple technologies, which I am excited to continue exploring in my career.',
+        description:
+          'During my time at Inroads Software, I was involved in the development of several cutting-edge projects, including the Pavement Distress Detector and RoadAid, an enterprise application designed specifically for roads. Leveraging my skills in mobile application development and machine learning, I played a key role in developing these projects, working collaboratively with cross-functional teams to ensure their successful implementation. Through these experiences, I gained valuable insights into the intersection of multiple technologies, which I am excited to continue exploring in my career.',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     education: [
       {
         name: 'Jawaharlal Nehru Technological University',
-        role: 'Bachelor\'s degree, Computer Science, 2016 - 2020',
+        role: "Bachelor's degree, Computer Science, 2016 - 2020",
         description: 'GPA: 7.45, College: NREC',
       },
     ],
@@ -85,8 +89,7 @@ module.exports = {
       },
       {
         name: 'Other Technologies',
-        description:
-          'Amazon Web Services (AWS), MongoDB',
+        description: 'Amazon Web Services (AWS), MongoDB',
       },
       {
         name: 'Soft Skills',
@@ -94,14 +97,16 @@ module.exports = {
       },
       {
         name: 'Languages',
-        description: 'English(Professional), Hindi(Native), Telugu(Native), Japanese(Elementary)'
-      }
+        description:
+          'English(Professional), Hindi(Native), Telugu(Native), Japanese(Elementary)',
+      },
     ],
     // Optional: List your tests, they must have `name`, `score` and `link`.
     tests: [
       {
         name: 'IELTS',
-        description: 'Overall : 8.0, Listening: 8.5, Reading: 8.5, Writing: 7.0, Speaking: 7.0',
+        description:
+          'Overall : 8.0, Listening: 8.5, Reading: 8.5, Writing: 7.0, Speaking: 7.0',
       },
       {
         name: 'GRE',
@@ -112,35 +117,44 @@ module.exports = {
     certifications: [
       {
         name: 'Machine Learning',
-        description: 'Gained practical knowledge of machine learning algorithms, deep learning methodologies through Andrew Ng\'s Machine Learning course which I applied extensively during my time as an intern at Inroads Software.',
-        link: 'https://www.coursera.org/account/accomplishments/verify/WY6A79WYKC84',
+        description:
+          "Gained practical knowledge of machine learning algorithms, deep learning methodologies through Andrew Ng's Machine Learning course which I applied extensively during my time as an intern at Inroads Software.",
+        link:
+          'https://www.coursera.org/account/accomplishments/verify/WY6A79WYKC84',
       },
       {
         name: 'Deep Learning',
-        description: 'Deep Learning Specialization offered by DeepLearning.AI covered advanced topics in deep learning, such as convolutional neural networks, recurrent neural networks expanding my expertise in the field. I used these techniques in Highway Asset Tracker project while working for Cube Highways.',
-        link: 'https://www.coursera.org/account/accomplishments/specialization/HLVKU38SP4DP',
+        description:
+          'Deep Learning Specialization offered by DeepLearning.AI covered advanced topics in deep learning, such as convolutional neural networks, recurrent neural networks expanding my expertise in the field. I used these techniques in Highway Asset Tracker project while working for Cube Highways.',
+        link:
+          'https://www.coursera.org/account/accomplishments/specialization/HLVKU38SP4DP',
       },
     ],
     // Optional: List your accolades, they must have `name`, `description` and `link`.
     accolades: [
       {
         name: 'Department Topper',
-        description: 'Awarded academic excellence for securing First Rank(Computer Science and Engineering Department) in the Sophomore year of my Bachelor’s Degree.',
+        description:
+          'Awarded academic excellence for securing First Rank(Computer Science and Engineering Department) in the Sophomore year of my Bachelor’s Degree.',
       },
     ],
     // Optional: List your social media accounts, they must have `name` and `link`.
     socials: [
+      { 
+        name: 'Email',
+        link: 'mailto:gyaneshwarsunkara7@gmail.com'
+      },
       {
         name: 'Twitter',
-        link: 'https://twitter.com/gyani__s'
+        link: 'https://twitter.com/gyani__s',
       },
       {
         name: 'Linkedin',
-        link: 'https://www.linkedin.com/in/gyaneshwar-sunkara'
+        link: 'https://www.linkedin.com/in/gyaneshwar-sunkara',
       },
       {
         name: 'Instagram',
-        link: 'https://www.instagram.com/gyani__s'
+        link: 'https://www.instagram.com/gyani__s',
       },
     ],
   },
