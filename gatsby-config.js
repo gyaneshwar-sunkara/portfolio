@@ -96,7 +96,7 @@ module.exports = {
         description: 'Problem Solving, Root Cause Analysis',
       },
       {
-        name: 'Languages',
+        name: 'Spoken Languages',
         description:
           'English(Professional), Hindi(Native), Telugu(Native), Japanese(Elementary)',
       },
