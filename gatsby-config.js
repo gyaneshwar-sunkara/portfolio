@@ -56,6 +56,12 @@ module.exports = {
           'I worked as an onsite critical resource for NPCI during my time with Winjit Technologies while handling some of the internal Winjit tasks.',
       },
       {
+        name: 'Repeat Technologies',
+        role: 'Solutions Architect and Co-Founder, June 2021 - July 2022',
+        description:
+          'Designed and built the entire software architecture of Repeat Bucket - A Grocery Delivery Platform involving mobile applications, landing pages and backend micro-services.',
+      },
+      {
         name: 'Cube Highways',
         role: 'Software Developer, January 2021 - July 2022',
         description:
@@ -71,6 +77,11 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     education: [
       {
+        name: 'University of Central Florida',
+        role: "Master's degree, Computer Science, 2023 - 2025",
+        description: 'GPA: -',
+      },
+      {
         name: 'Jawaharlal Nehru Technological University',
         role: "Bachelor's degree, Computer Science, 2016 - 2020",
         description: 'GPA: 7.45, College: NREC',
@@ -81,7 +92,7 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Application Programming: JavaScript, Python, Java; Competitive Programming & DSA: Java',
+          'Application Programming: JavaScript, Python, Java; Competitive Programming & DSA: JavaScript, Java, C++',
       },
       {
         name: 'Frameworks',
@@ -140,9 +151,9 @@ module.exports = {
     ],
     // Optional: List your social media accounts, they must have `name` and `link`.
     socials: [
-      { 
+      {
         name: 'Email',
-        link: 'mailto:gyaneshwarsunkara7@gmail.com'
+        link: 'mailto:gyanisunkara1@gmail.com',
       },
       {
         name: 'Twitter',
